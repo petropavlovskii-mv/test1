@@ -40,4 +40,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <constants>Constant.КоличествоПользователей</constants>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <documents>Document.ПриобретениеТоваровУслуг</documents>
+  <documents>Document.РеализацияТоваровУслуг</documents>
 </mdclass:Configuration>
