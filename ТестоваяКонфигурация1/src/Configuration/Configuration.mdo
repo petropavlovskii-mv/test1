@@ -44,4 +44,5 @@
   <catalogs>Catalog.ЕдиницыИзмерения</catalogs>
   <documents>Document.ПриобретениеТоваровУслуг</documents>
   <documents>Document.РеализацияТоваровУслуг</documents>
+  <documents>Document.ПоступлениеОплатыЗаТовар</documents>
 </mdclass:Configuration>
